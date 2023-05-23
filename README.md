@@ -10,6 +10,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: Jayan Grondin BDX 
 
 ## Fork urls
-- `contributor-1`: [quotes-Abouleila-Selim-bdx](url-1)
-- `contributor-2`: [quotes-nathan-bdx](url-2)
-- `contributor-3`: [quotes-jayan-bdx](url-3)
+- `contributor-1`: [quotes-Abouleila-Selim-bdx](https://github.com/Selim-Abouleila/quotes-Abouleila-Selim-bdx)
+- `contributor-2`: [quotes-nathan-bdx](https://github.com/Ossmozz-Github/quotes-nathan-bdx)
+- `contributor-3`: [quotes-jayan-bdx](https://github.com/Jayance12/quotes-jayan-bdx)
